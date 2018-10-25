@@ -5,8 +5,6 @@ This project is based on the original Ionic 3 project with sidemenu, plus:
 * translation service
 * route guards
 
-I've also setup a demo backend project, to support this one - [Laravel JWT](https://github.com/vmanchev/laravel-jwt)
-
 Using this seed project, you'll have a working example of 
 * user registration
 * user login
